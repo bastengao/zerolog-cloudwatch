@@ -1,5 +1,7 @@
 # zerlog AWS CloudWatch logs writer
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/bastengao/zerolog-cloudwatch/writer.svg)](https://pkg.go.dev/github.com/bastengao/zerolog-cloudwatch/writer)
+
 Send logs from zerolog to AWS CloudWatch logs.
 
 ## Usage
